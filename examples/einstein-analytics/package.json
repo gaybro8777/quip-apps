@@ -20,6 +20,6 @@
         "he": "^1.2.0",
         "lodash.debounce": "^4.0.8",
         "lodash.sortby": "^4.7.0",
-        "moment": "^2.22.2"
+        "moment": "^2.29.2"
     }
 }
