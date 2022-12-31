@@ -9,8 +9,8 @@
     },
     "author": "",
     "devDependencies": {
-        "copy-webpack-plugin": "^4.5.1",
+        "copy-webpack-plugin": "^11.0.0",
         "katex": "^0.9.0",
-        "quip-apps-webpack-config": "0.0.20"
+        "quip-apps-webpack-config": "0.1.3"
     }
 }
